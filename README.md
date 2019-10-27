@@ -1,6 +1,6 @@
 # Solução - Site Sellection
 
-Página HOME:
+## Página HOME:
 * Logotipo da empresa Sellection
 * Nenhum link de menu de navegação
 * Não haverá opção de busca dentro do site
@@ -15,28 +15,54 @@ em obras; imóveis prontos – com o texto e as labels como nas imagens acima, c
 * Após as imagens, implementar um grid com as informações de contatos
 * Rodapé com informações gerais logo, copyrigh, creci, endereçoe e telefone;
 
-Página EMPREENDIMENTOS:
+## Página EMPREENDIMENTOS:
+* Links para cada sessão da página EMPREENDIMENTOS devem funcionar rolando a página ao clicar 
 * Imagem de destaque do empreendimento
 * Descrição do empreendimento, icones para mostrar os detalhes do empreendimento
 * Galeria de imagens do imóvel
 * Galeria de plantas do imóvel
 * Mapa de localização do imóvel
 * Sessão com breve comentário com imagem
-* Links para cada sessão da página EMPREENDIMENTOS devem funcionar rolando a página ao clicar 
+* Após as imagens, implementar um grid com as informações de contatos
+* Botões: ENVIE SUA PROPOSTA e FALE COM UM CORRETOR, em uma sessão chamada PREÇOES E CONDIÇÕES DE PAGAMENTO
+* Espaço com valor médio do imóvel
+* Texto fixo: “Os preços e condições de pagamento poderão sofrer
+alterações a depender da metragem da unidade escolhida e da forma de pagamento. Poderá também não haver
+mais a disponibilidade de unidades para venda.”
 
+* O botão FALE COM UM CORRETOR (verificar se abre o chat neste momento)
 
+* O botão ENVIE SUA PROPOSTA deverá abrir um formulário com o título “envie sua proposta”, com os campos nome, email e telefone e o campo “mensagem” para inserção de texto livre e botão “enviar”
 
+## Página ADMINISTRATIVA
+* O sistema adminstrativo será desenvolvido baseando-se em todas as páginas que devem ser dinâmicas (banner, imagens gerais, labels, etc).
+* Cadastro de usuários
+* Cadastro de imóveis
+* Controle de logs do chat
+* Etc
 
-Primeiro MVP
-Site funcional sem interatividade com o si3stema administrativo
+# Entragas
+
+## Primeiro MVP
+Site funcional sem interatividade com o sistema administrativo
+De 1 a 2 meses
+R$ 6.000,00
+
+## Segundo MVP
+Primeiras interatividades com o sistema admnistrativo (cadastro de imóveis)
 De 1 a 2 meses
 R$ 4.000,00
 
-Segundo MVP
+## Terceiro MVP
+Demais interatividades com o sistema administrativo 
+De 1 a 2 meses
+R$ 3.000,00
 
+## Quarto MVP
+Chat integrado ao site, com todos os controles solicitados
+De 1 a 2 meses
+R$ 5.000,00
 
-
-Total
-
-4 a 5 meses 
-R$ 15.000,00
+## Totais 
+Prazo: 4 a 6 meses 
+Valor R$ 18.000,00
