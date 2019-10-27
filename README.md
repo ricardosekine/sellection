@@ -45,8 +45,8 @@ mais a disponibilidade de unidades para venda.”
 
 ## Primeiro MVP
 Site funcional sem interatividade com o sistema administrativo
-De 1 a 2 meses
-R$ 6.000,00
+* De 1 a 2 meses
+* R$ 6.000,00
 
 ## Segundo MVP
 Primeiras interatividades com o sistema admnistrativo (cadastro de imóveis)
