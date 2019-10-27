@@ -50,19 +50,19 @@ R$ 6.000,00
 
 ## Segundo MVP
 Primeiras interatividades com o sistema admnistrativo (cadastro de imóveis)
-De 1 a 2 meses
-R$ 4.000,00
+* De 1 a 2 meses
+* R$ 4.000,00
 
 ## Terceiro MVP
 Demais interatividades com o sistema administrativo 
-De 1 a 2 meses
-R$ 3.000,00
+* De 1 a 2 meses
+* R$ 3.000,00
 
 ## Quarto MVP
 Chat integrado ao site, com todos os controles solicitados
-De 1 a 2 meses
-R$ 5.000,00
+* De 1 a 2 meses
+* R$ 5.000,00
 
 ## Totais 
-Prazo: 4 a 6 meses 
-Valor R$ 18.000,00
+* Prazo: 4 a 6 meses 
+* Valor R$ 18.000,00
