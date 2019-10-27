@@ -41,7 +41,7 @@ mais a disponibilidade de unidades para venda.”
 * Controle de logs do chat
 * Etc
 
-# Entragas
+# Entregas
 
 ## Primeiro MVP
 Site funcional sem interatividade com o sistema administrativo
